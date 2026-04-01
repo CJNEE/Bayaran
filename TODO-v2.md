@@ -1,0 +1,1 @@
+- [x] 1. Add login_view to backend/bayaran_app/views.py&#10;- [x] 2. Add path('login/', views.login_view) to backend/bayaran_app/urls.py&#10;- [x] 3. Update src/components/Login.jsx body and endpoint&#10;- [x] 4. Restart backend server&#10;- [x] 5. Test login

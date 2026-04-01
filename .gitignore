@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Production builds
+dist/
+build/
+
+# Django
+*.log
+local.sqlite3
+db.sqlite3
+media/
+staticfiles/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+

@@ -9,7 +9,6 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  {
   "name": "bayaran-backend",
   "version": "1.0.0",
   "main": "server.js",
